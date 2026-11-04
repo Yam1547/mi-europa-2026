@@ -8,3 +8,5 @@ MI EUROPA 2026 — APP PARA PANTALLA DE INICIO (PWA)
 El checklist guarda sus marcas en el dispositivo/navegador, siempre que no se borren los datos del sitio. Los enlaces externos a Google Maps y Google Calendar requieren conexión.
 
 IMPORTANTE: Abrir index.html desde Archivos no instala una PWA ni habilita el service worker.
+
+V8: Barcelona 14 playa, 15 Gaudí, 16 Gótico y Born. Park Güell eliminado. Subir los archivos a la raíz del repositorio y confirmar cambios.
