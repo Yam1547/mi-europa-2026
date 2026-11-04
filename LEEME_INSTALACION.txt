@@ -1,0 +1,10 @@
+MI EUROPA 2026 — APP PARA PANTALLA DE INICIO (PWA)
+
+1. Subí todos los archivos de esta carpeta a un alojamiento HTTPS (por ejemplo, GitHub Pages o Netlify). No subas solo index.html.
+2. Abrí la URL pública de la app desde Safari en tu iPhone.
+3. Compartir → Agregar a pantalla de inicio → Agregar.
+4. Abrí la app una vez con internet para que se guarde la versión offline.
+
+El checklist guarda sus marcas en el dispositivo/navegador, siempre que no se borren los datos del sitio. Los enlaces externos a Google Maps y Google Calendar requieren conexión.
+
+IMPORTANTE: Abrir index.html desde Archivos no instala una PWA ni habilita el service worker.
